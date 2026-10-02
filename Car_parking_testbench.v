@@ -2,7 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Engineer: Devaananth
 // 
-// Create Date: 01.10.2026 20:44:00
 // Design Name: Car_parking
 // Module Name: Car_parking_testbench
 // Project Name: Car_parking_controller
