@@ -1,16 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Engineer: Devaananth
-// 
-// Create Date: 01.10.2026 20:44:00
-// Design Name: Car_parking
-// Module Name: Car_parking_Design
-// Project Name: Car_parking_controller
-// Target Devices: Artix - 7
-// Tool Versions: Vivado v2026.1 (64-bit)
-// Revision 0.01 - File Created
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module Car_parking_Design#(
     parameter CAPACITY = 4,
