@@ -1,15 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Engineer: Devaananth
-// 
-// Design Name: Car_parking
-// Module Name: Car_parking_testbench
-// Project Name: Car_parking_controller
-// Target Devices: Artix - 7
-// Tool Versions: Vivado v2026.1 (64-bit)
-// Revision 0.01 - File Created
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module Car_parking_testbench;
     reg clk;
